@@ -1,6 +1,5 @@
 # IntelliJ project files
 .idea
 *.iml
-dist
 npm-debug.log
 node_modules
