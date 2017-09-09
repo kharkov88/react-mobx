@@ -60,11 +60,11 @@ body {
   }
   .spin{
     text-align: center;
-    display: none;
+    opacity: 0;
     color: lightseagreen;
   }
   .spinVisible{
-    display: block;
+    opacity: 1;
   }
   .fa-fire{
     color: orange;
